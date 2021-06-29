@@ -1,4 +1,4 @@
 # Tomcat
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=1"
+  info: "master branch,springcloud-config/config-dev.yml version=2"
   age: 12
